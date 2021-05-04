@@ -1,10 +1,9 @@
 ## Getting Started
-Please make sure python3 is installed and activated.
+Please make sure virtual env is activated with required packages installed.
 
 Run the following command to execute the script.
-
 ```bash
-user@Kernel:~/Desktop/banglalink-assessment/Problem 1/task_a$ python problem1_task_a.py
+(env) user@Kernel:~/Desktop/banglalink-assessment/Problem 1/task_a$ python problem1_task_a.py
 2
 Sun 10 May 2015 13:54:36 -0700
 Sun 10 May 2015 13:54:36 -0000
